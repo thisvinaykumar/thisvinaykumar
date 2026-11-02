@@ -1,14 +1,14 @@
 # Hi, I'm Vinay Kumar 👋
 
-**Software Architect & Digital Creator** | Building scalable SaaS architectures ([@opsx.in](https://opsx.in)) | Tech Writer ([@javaScriptwithvinay](https://medium.com/@javaScriptwithvinay)) | Creator of @MagadhKaMunshi & [@authorvinay](https://www.youtube.com/@authorvinay)
+**Senior Software Engineer & System Architect** | Building scalable SaaS & ERP architectures ([@opsx.in](https://opsx.in)) | Tech Writer ([@javaScriptwithvinay](https://medium.com/@javaScriptwithvinay)) | Creator ([@authorvinay](https://www.youtube.com/@authorvinay))
 
-🌐 **Website:** [thisvinaykumar.netlify.app](https://thisvinaykumar.netlify.app)
+🌐 **Website:** [thisvinaykumar.opsx.in](https://thisvinaykumar.opsx.in)
 
 ## 🔗 Connect with me
 
 | Platform | Link |
 |---|---|
-| 🌐 Portfolio | [thisvinaykumar.netlify.app](https://thisvinaykumar.netlify.app) |
+| 🌐 Portfolio | [thisvinaykumar.opsx.in](https://thisvinaykumar.opsx.in) |
 | 🏢 OpsX (SaaS) | [opsx.in](https://opsx.in) |
 | 💼 LinkedIn | [@thisvinaykumar](https://www.linkedin.com/in/thisvinaykumar) |
 | 🐦 X / Twitter | [@thisvinaykumar](https://x.com/thisvinaykumar) |
