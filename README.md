@@ -4,6 +4,13 @@
 
 🌐 **Website:** [thisvinaykumar.opsx.in](https://thisvinaykumar.opsx.in) · 📸 **Instagram:** [@thisvinaykumar](https://www.instagram.com/thisvinaykumar)
 
+## ✍️ Latest articles
+
+New posts from [JavaScript With Vinay on Medium](https://medium.com/@javaScriptwithvinay), updated daily.
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 🔗 Connect with me
 
 ### 👤 Personal Identity (`@thisvinaykumar`)
