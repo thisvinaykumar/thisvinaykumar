@@ -9,11 +9,11 @@
 New posts from [JavaScript With Vinay on Medium](https://medium.com/@javaScriptwithvinay), updated daily.
 
 <!-- BLOG-POST-LIST:START -->
+- [store = undefined: The await Interview Answer a Mongoose Bug Taught Me](https://medium.com/@javaScriptwithvinay/store-undefined-the-await-interview-answer-a-mongoose-bug-taught-me-38cd778afc95?source=rss-e184dbcd37f7------2)
 - [How We Architected OpsX &lpar;opsx.in&rpar;: The Edge-First Attendance, Payroll &amp; Workforce ERP](https://medium.com/@javaScriptwithvinay/how-we-architected-opsx-opsx-in-the-edge-first-attendance-payroll-workforce-erp-bfd84d0d87c7?source=rss-e184dbcd37f7------2)
 - [I Ran My TypeScript With Plain node. A ₹500 Item Came Back as ₹50,090.](https://medium.com/@javaScriptwithvinay/i-ran-my-typescript-with-plain-node-a-500-item-came-back-as-50-090-5180ce9a2ad7?source=rss-e184dbcd37f7------2)
 - [How to Craft a Standout Resume as a College Student](https://medium.com/@javaScriptwithvinay/how-to-craft-a-standout-resume-as-a-college-student-c3bcc4336921?source=rss-e184dbcd37f7------2)
 - [Every Hindi Translation Existed. Users Still Saw “crud.rm.liter” on Screen.](https://medium.com/@javaScriptwithvinay/every-hindi-translation-existed-users-still-saw-crud-rm-liter-on-screen-933b8e87abf2?source=rss-e184dbcd37f7------2)
-- [He Worked 11 Hours. The Software Paid Him for Half a Day.](https://medium.com/@javaScriptwithvinay/he-worked-11-hours-the-software-paid-him-for-half-a-day-1dce19328201?source=rss-e184dbcd37f7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Connect with me
