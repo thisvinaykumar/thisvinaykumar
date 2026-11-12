@@ -1,8 +1,28 @@
-# Hi, I'm Vinay Kumar 👋
+# Hi, I'm Vinay Kumar (@thisvinaykumar) 👋
 
-**Software Architect & Creator** | Senior Software Engineer & System Architect building scalable SaaS & ERP architectures ([@opsx.in](https://opsx.in)) | Tech Writer ([@javaScriptwithvinay](https://medium.com/@javaScriptwithvinay)) | Creator of [@MagadhKaMunshi](https://www.youtube.com/@MagadhKaMunshi) & [@authorvinay](https://www.youtube.com/@authorvinay)
+**System Architect & Senior Full-Stack Software Developer | Founder at [OpsX](https://opsx.in)**
 
-🌐 **Website:** [thisvinaykumar.opsx.in](https://thisvinaykumar.opsx.in) · 📸 **Instagram:** [@thisvinaykumar](https://www.instagram.com/thisvinaykumar)
+I'm **Vinay Kumar** (`thisvinaykumar`), a System Architect and Senior Full-Stack Software Developer in India. I design and build multi-tenant SaaS and **Enterprise ERP** platforms with Node.js, NestJS, Angular, TypeScript, MongoDB, PostgreSQL, Redis, Docker and AWS, and I'm the founder of **[OpsX](https://opsx.in)** (Opsx Apex Private Limited): Enterprise ERP for attendance, payroll and field staff, plus custom software & website development, managed IT support and digital marketing for businesses in India. I also write as **JavaScript With Vinay** on Medium and create the **Author Vinay** and **Magadh Ka Munshi** channels.
+
+🌐 **Portfolio:** [vinay.opsx.in](https://vinay.opsx.in) · 🏢 **Company:** [opsx.in](https://opsx.in) · 👤 **Founder profile:** [opsx.in/vinay-kumar](https://opsx.in/vinay-kumar/)
+💼 [LinkedIn](https://www.linkedin.com/in/thisvinaykumar/) · ✍️ [Medium](https://medium.com/@javaScriptwithvinay) · 🐦 [X](https://x.com/thisvinaykumar) · 📸 [Instagram](https://www.instagram.com/thisvinaykumar) · 🎧 [YouTube](https://www.youtube.com/@authorvinay)
+
+## 🧰 Tech stack
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+**Architecture:** multi-tenant SaaS, Enterprise ERP (attendance, statutory payroll, double-entry ledger), microservices, offline-first Android apps, idempotent money-safe APIs, security hardening (JWT, RBAC, CSP), CI/CD.
 
 ## ✍️ Latest articles
 
@@ -22,7 +42,8 @@ New posts from [JavaScript With Vinay on Medium](https://medium.com/@javaScriptw
 
 | Platform | Link |
 |---|---|
-| 🌐 Portfolio | [thisvinaykumar.opsx.in](https://thisvinaykumar.opsx.in) |
+| 🌐 Portfolio | [vinay.opsx.in](https://vinay.opsx.in) |
+| 👤 Founder profile | [opsx.in/vinay-kumar](https://opsx.in/vinay-kumar/) |
 | 📸 Instagram | [@thisvinaykumar](https://www.instagram.com/thisvinaykumar) |
 | 💼 LinkedIn | [@thisvinaykumar](https://www.linkedin.com/in/thisvinaykumar/) |
 | 🐦 X / Twitter | [@thisvinaykumar](https://x.com/thisvinaykumar) |
@@ -33,8 +54,9 @@ New posts from [JavaScript With Vinay on Medium](https://medium.com/@javaScriptw
 
 | Name | Link |
 |---|---|
-| 🏢 OpsX — Attendance, Payroll & Field Staff SaaS | [opsx.in](https://opsx.in) |
-| 🤝 Shubh Saathi | [shubhsaathi.org](https://shubhsaathi.org) |
+| 🏢 OpsX — Enterprise ERP, Software Development, IT Support & Digital Marketing | [opsx.in](https://opsx.in) |
+| 🧩 OpsX ERP architecture & docs | [github.com/thisvinaykumar/opsx-erp](https://github.com/thisvinaykumar/opsx-erp) |
+| 🤝 Shubhsaathi Foundation (NGO) | [shubhsaathi.org](https://shubhsaathi.org) |
 
 ### 🎙️ Creator Initiatives
 
