@@ -29,11 +29,11 @@ I'm **Vinay Kumar** (`thisvinaykumar`), a System Architect and Senior Full-Stack
 New posts from [JavaScript With Vinay on Medium](https://medium.com/@javaScriptwithvinay), updated daily.
 
 <!-- BLOG-POST-LIST:START -->
+- [The Cache Answered Too Fast. Our Angular Dropdown Went Empty After the First Form.](https://medium.com/@javaScriptwithvinay/the-cache-answered-too-fast-our-angular-dropdown-went-empty-after-the-first-form-859b21f02c2f?source=rss-e184dbcd37f7------2)
 - [“Use an Idempotency Key” Covers One of Three Ways a Payment Runs Twice](https://medium.com/@javaScriptwithvinay/use-an-idempotency-key-covers-one-of-three-ways-a-payment-runs-twice-a299dbb21b47?source=rss-e184dbcd37f7------2)
 - [JavaScript Interview: Share One fetch&lpar;&rpar; Between Two Components, Let Each Cancel Alone](https://javascript.plainenglish.io/one-fetch-two-components-the-header-aborts-the-profile-card-goes-blank-4cff7f3611f0?source=rss-e184dbcd37f7------2)
 - [My AI Coding Agent Said “All Green.” tsc Had Crashed: 3 TypeScript CI Traps](https://blog.devgenius.io/three-checks-said-green-one-built-nothing-one-crashed-one-ran-330-suites-b0006353352b?source=rss-e184dbcd37f7------2)
 - [How await Really Works in Node.js: A Mongoose Bug That Approved Overtime Twice](https://blog.stackademic.com/store-undefined-the-await-interview-answer-a-mongoose-bug-taught-me-38cd778afc95?source=rss-e184dbcd37f7------2)
-- [How We Architected OpsX &lpar;opsx.in&rpar;: The Edge-First Attendance, Payroll &amp; Workforce ERP](https://medium.com/@javaScriptwithvinay/how-we-architected-opsx-opsx-in-the-edge-first-attendance-payroll-workforce-erp-bfd84d0d87c7?source=rss-e184dbcd37f7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Connect with me
