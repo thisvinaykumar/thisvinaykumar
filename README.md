@@ -8,7 +8,7 @@ I design and build <b>multi-tenant SaaS</b> and <b>Enterprise ERP</b> platforms 
 <p align="center">
   <a href="https://vinay.opsx.in"><img src="https://img.shields.io/badge/Portfolio-vinay.opsx.in-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/thisvinaykumar/"><img src="https://img.shields.io/badge/LinkedIn-thisvinaykumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://medium.com/@thisvinaykumar"><img src="https://img.shields.io/badge/Medium-JavaScript_With_Vinay-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://medium.com/@thisvinaykumar"><img src="https://img.shields.io/badge/Medium-@thisvinaykumar-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://x.com/thisvinaykumar"><img src="https://img.shields.io/badge/X-@thisvinaykumar-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 </p>
 
@@ -51,7 +51,7 @@ An edge-computing workforce OS and multi-tenant ERP by Opsx Apex Pvt. Ltd. → [
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### ✍️ Latest from *JavaScript With Vinay*
+### ✍️ Latest from Vinay Kumar on Medium
 
 <!-- BLOG-POST-LIST:START -->
 - [The Cache Answered Too Fast. Our Angular Dropdown Went Empty After the First Form.](https://medium.com/@thisvinaykumar/the-cache-answered-too-fast-our-angular-dropdown-went-empty-after-the-first-form-859b21f02c2f?source=rss-e184dbcd37f7------2)
