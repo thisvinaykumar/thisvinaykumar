@@ -1,32 +1,57 @@
-# Hi, I'm Vinay Kumar (@thisvinaykumar) 👋
+<h1 align="center">Hi, I'm Vinay Kumar 👋</h1>
+<h3 align="center">System Architect & Senior Full-Stack Developer · Founder, <a href="https://opsx.in">OpsX</a></h3>
 
-**System Architect & Senior Full-Stack Software Developer | Founder at [OpsX](https://opsx.in)**
+<p align="center">
+I design and build <b>multi-tenant SaaS</b> and <b>Enterprise ERP</b> platforms — attendance, statutory payroll, ledgers, field-staff tracking — that run in production for real businesses across India.
+</p>
 
-I'm **Vinay Kumar** (`thisvinaykumar`), a System Architect and Senior Full-Stack Software Developer in India. I design and build multi-tenant SaaS and **Enterprise ERP** platforms with Node.js, NestJS, Angular, TypeScript, MongoDB, PostgreSQL, Redis, Docker and AWS, and I'm the founder of **[OpsX](https://opsx.in)** (Opsx Apex Private Limited): Enterprise ERP for attendance, payroll and field staff, plus custom software & website development, managed IT support and digital marketing for businesses in India. I also write as **JavaScript With Vinay** on Medium and create the **Author Vinay** and **Magadh Ka Munshi** channels.
+<p align="center">
+  <a href="https://vinay.opsx.in"><img src="https://img.shields.io/badge/Portfolio-vinay.opsx.in-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/thisvinaykumar/"><img src="https://img.shields.io/badge/LinkedIn-thisvinaykumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@thisvinaykumar"><img src="https://img.shields.io/badge/Medium-JavaScript_With_Vinay-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://x.com/thisvinaykumar"><img src="https://img.shields.io/badge/X-@thisvinaykumar-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+</p>
 
-🌐 **Portfolio:** [vinay.opsx.in](https://vinay.opsx.in) · 🏢 **Company:** [opsx.in](https://opsx.in) · 👤 **Founder profile:** [opsx.in/vinay-kumar](https://opsx.in/vinay-kumar/)
-💼 [LinkedIn](https://www.linkedin.com/in/thisvinaykumar/) · ✍️ [Medium](https://medium.com/@thisvinaykumar) · 🐦 [X](https://x.com/thisvinaykumar) · 📸 [Instagram](https://www.instagram.com/thisvinaykumar) · 🎧 [YouTube](https://www.youtube.com/@authorvinay) · ▶️ [OpsX YouTube](https://www.youtube.com/@opsxofficial)
+---
 
-## 🧰 Tech stack
+### 🚀 What I'm building — OpsX ERP
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+An edge-computing workforce OS and multi-tenant ERP by Opsx Apex Pvt. Ltd. → [architecture & docs](https://github.com/thisvinaykumar/opsx-erp)
 
-**Architecture:** multi-tenant SaaS, Enterprise ERP (attendance, statutory payroll, double-entry ledger), microservices, offline-first Android apps, idempotent money-safe APIs, security hardening (JWT, RBAC, CSP), CI/CD.
+- 📍 **Geofenced attendance** + live tracking & route planning for field staff
+- 💰 **Statutory payroll** on a double-entry ledger with idempotent, money-safe APIs
+- 🔐 **RBAC, JWT, CSP** — tenant isolation and security hardening by default
+- 📱 **Offline-first Android kiosks** with SQLCipher-encrypted local storage
 
-## ✍️ Latest articles
+### 🧠 How I work
 
-New posts from [JavaScript With Vinay on Medium](https://medium.com/@thisvinaykumar), updated daily.
+- Architecture first: tenant isolation, idempotency and failure modes before features
+- Ship small, observable changes through CI/CD
+- Write about the bugs I fix, so others don't hit them twice
+
+### 🧰 Tech stack
+
+**Backend** &nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Frontend** &nbsp;
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Data** &nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Infra** &nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### ✍️ Latest from *JavaScript With Vinay*
 
 <!-- BLOG-POST-LIST:START -->
 - [The Cache Answered Too Fast. Our Angular Dropdown Went Empty After the First Form.](https://medium.com/@thisvinaykumar/the-cache-answered-too-fast-our-angular-dropdown-went-empty-after-the-first-form-859b21f02c2f?source=rss-e184dbcd37f7------2)
@@ -36,35 +61,24 @@ New posts from [JavaScript With Vinay on Medium](https://medium.com/@thisvinayku
 - [How await Really Works in Node.js: A Mongoose Bug That Approved Overtime Twice](https://blog.stackademic.com/store-undefined-the-await-interview-answer-a-mongoose-bug-taught-me-38cd778afc95?source=rss-e184dbcd37f7------2)
 <!-- BLOG-POST-LIST:END -->
 
-## 🔗 Connect with me
+➡️ [All articles on Medium](https://medium.com/@thisvinaykumar)
 
-### 👤 Personal Identity (`@thisvinaykumar`)
+### 📊 GitHub activity
 
-| Platform | Link |
-|---|---|
-| 🌐 Portfolio | [vinay.opsx.in](https://vinay.opsx.in) |
-| 👤 Founder profile | [opsx.in/vinay-kumar](https://opsx.in/vinay-kumar/) |
-| 📸 Instagram | [@thisvinaykumar](https://www.instagram.com/thisvinaykumar) |
-| 💼 LinkedIn | [@thisvinaykumar](https://www.linkedin.com/in/thisvinaykumar/) |
-| 🐦 X / Twitter | [@thisvinaykumar](https://x.com/thisvinaykumar) |
-| 👍 Facebook | [@thisvinaykumar](https://www.facebook.com/thisvinaykumar) |
-| 💻 GitHub | [@thisvinaykumar](https://github.com/thisvinaykumar) |
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thisvinaykumar&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisvinaykumar&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+</p>
 
-### 🏢 Products & Organizations
+<details>
+<summary>🎙️ Other things I do</summary>
 
-| Name | Link |
-|---|---|
-| 🏢 OpsX — Enterprise ERP, Software Development, IT Support & Digital Marketing | [opsx.in](https://opsx.in) |
-| ▶️ OpsX Official — YouTube channel | [@opsxofficial](https://www.youtube.com/@opsxofficial) |
-| 🧩 OpsX ERP architecture & docs | [github.com/thisvinaykumar/opsx-erp](https://github.com/thisvinaykumar/opsx-erp) |
-| 🤝 Shubhsaathi Foundation (NGO) | [shubhsaathi.org](https://shubhsaathi.org) |
+- 🏢 [OpsX](https://opsx.in) — ERP, custom software, IT support & digital marketing · [YouTube](https://www.youtube.com/@opsxofficial) · [Founder profile](https://opsx.in/vinay-kumar/)
+- 🤝 [Shubhsaathi Foundation](https://shubhsaathi.org) (NGO)
+- ⚖️ Magadh Ka Munshi — [YouTube](https://www.youtube.com/@MagadhKaMunshi) · [Instagram](https://www.instagram.com/MagadhKaMunshi)
+- 🎧 Author Vinay — [YouTube](https://www.youtube.com/@authorvinay) · [Instagram](https://www.instagram.com/authorvinay)
+- 👍 [Facebook](https://www.facebook.com/thisvinaykumar) · 📸 [Instagram](https://www.instagram.com/thisvinaykumar)
 
-### 🎙️ Creator Initiatives
+</details>
 
-| Initiative | Platform | Link |
-|---|---|---|
-| ✍️ JavaScript With Vinay | Medium | [@thisvinaykumar](https://medium.com/@thisvinaykumar) |
-| ⚖️ Magadh Ka Munshi | YouTube | [@MagadhKaMunshi](https://www.youtube.com/@MagadhKaMunshi) |
-| ⚖️ Magadh Ka Munshi | Instagram | [@MagadhKaMunshi](https://www.instagram.com/MagadhKaMunshi) |
-| 🎧 Author Vinay | YouTube | [@authorvinay](https://www.youtube.com/@authorvinay) |
-| 🎧 Author Vinay | Instagram | [@authorvinay](https://www.instagram.com/authorvinay) |
+<p align="center"><i>Open to architecture consulting and ERP/SaaS projects — reach out on <a href="https://www.linkedin.com/in/thisvinaykumar/">LinkedIn</a>.</i></p>
