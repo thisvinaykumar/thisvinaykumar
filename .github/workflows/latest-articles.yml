@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@1.9.7
         with:
-          feed_list: "https://medium.com/feed/@javaScriptwithvinay"
+          feed_list: "https://medium.com/feed/@thisvinaykumar"
           max_post_count: 5
           commit_message: "Update latest Medium articles"
           committer_username: "github-actions[bot]"
