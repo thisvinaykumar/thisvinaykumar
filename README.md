@@ -5,7 +5,7 @@
 I'm **Vinay Kumar** (`thisvinaykumar`), a System Architect and Senior Full-Stack Software Developer in India. I design and build multi-tenant SaaS and **Enterprise ERP** platforms with Node.js, NestJS, Angular, TypeScript, MongoDB, PostgreSQL, Redis, Docker and AWS, and I'm the founder of **[OpsX](https://opsx.in)** (Opsx Apex Private Limited): Enterprise ERP for attendance, payroll and field staff, plus custom software & website development, managed IT support and digital marketing for businesses in India. I also write as **JavaScript With Vinay** on Medium and create the **Author Vinay** and **Magadh Ka Munshi** channels.
 
 🌐 **Portfolio:** [vinay.opsx.in](https://vinay.opsx.in) · 🏢 **Company:** [opsx.in](https://opsx.in) · 👤 **Founder profile:** [opsx.in/vinay-kumar](https://opsx.in/vinay-kumar/)
-💼 [LinkedIn](https://www.linkedin.com/in/thisvinaykumar/) · ✍️ [Medium](https://medium.com/@javaScriptwithvinay) · 🐦 [X](https://x.com/thisvinaykumar) · 📸 [Instagram](https://www.instagram.com/thisvinaykumar) · 🎧 [YouTube](https://www.youtube.com/@authorvinay)
+💼 [LinkedIn](https://www.linkedin.com/in/thisvinaykumar/) · ✍️ [Medium](https://medium.com/@thisvinaykumar) · 🐦 [X](https://x.com/thisvinaykumar) · 📸 [Instagram](https://www.instagram.com/thisvinaykumar) · 🎧 [YouTube](https://www.youtube.com/@authorvinay) · ▶️ [OpsX YouTube](https://www.youtube.com/@opsxofficial)
 
 ## 🧰 Tech stack
 
@@ -26,11 +26,11 @@ I'm **Vinay Kumar** (`thisvinaykumar`), a System Architect and Senior Full-Stack
 
 ## ✍️ Latest articles
 
-New posts from [JavaScript With Vinay on Medium](https://medium.com/@javaScriptwithvinay), updated daily.
+New posts from [JavaScript With Vinay on Medium](https://medium.com/@thisvinaykumar), updated daily.
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cache Answered Too Fast. Our Angular Dropdown Went Empty After the First Form.](https://medium.com/@javaScriptwithvinay/the-cache-answered-too-fast-our-angular-dropdown-went-empty-after-the-first-form-859b21f02c2f?source=rss-e184dbcd37f7------2)
-- [“Use an Idempotency Key” Covers One of Three Ways a Payment Runs Twice](https://medium.com/@javaScriptwithvinay/use-an-idempotency-key-covers-one-of-three-ways-a-payment-runs-twice-a299dbb21b47?source=rss-e184dbcd37f7------2)
+- [The Cache Answered Too Fast. Our Angular Dropdown Went Empty After the First Form.](https://medium.com/@thisvinaykumar/the-cache-answered-too-fast-our-angular-dropdown-went-empty-after-the-first-form-859b21f02c2f?source=rss-e184dbcd37f7------2)
+- [“Use an Idempotency Key” Covers One of Three Ways a Payment Runs Twice](https://medium.com/@thisvinaykumar/use-an-idempotency-key-covers-one-of-three-ways-a-payment-runs-twice-a299dbb21b47?source=rss-e184dbcd37f7------2)
 - [JavaScript Interview: Share One fetch&lpar;&rpar; Between Two Components, Let Each Cancel Alone](https://javascript.plainenglish.io/one-fetch-two-components-the-header-aborts-the-profile-card-goes-blank-4cff7f3611f0?source=rss-e184dbcd37f7------2)
 - [My AI Coding Agent Said “All Green.” tsc Had Crashed: 3 TypeScript CI Traps](https://blog.devgenius.io/three-checks-said-green-one-built-nothing-one-crashed-one-ran-330-suites-b0006353352b?source=rss-e184dbcd37f7------2)
 - [How await Really Works in Node.js: A Mongoose Bug That Approved Overtime Twice](https://blog.stackademic.com/store-undefined-the-await-interview-answer-a-mongoose-bug-taught-me-38cd778afc95?source=rss-e184dbcd37f7------2)
@@ -55,6 +55,7 @@ New posts from [JavaScript With Vinay on Medium](https://medium.com/@javaScriptw
 | Name | Link |
 |---|---|
 | 🏢 OpsX — Enterprise ERP, Software Development, IT Support & Digital Marketing | [opsx.in](https://opsx.in) |
+| ▶️ OpsX Official — YouTube channel | [@opsxofficial](https://www.youtube.com/@opsxofficial) |
 | 🧩 OpsX ERP architecture & docs | [github.com/thisvinaykumar/opsx-erp](https://github.com/thisvinaykumar/opsx-erp) |
 | 🤝 Shubhsaathi Foundation (NGO) | [shubhsaathi.org](https://shubhsaathi.org) |
 
@@ -62,7 +63,7 @@ New posts from [JavaScript With Vinay on Medium](https://medium.com/@javaScriptw
 
 | Initiative | Platform | Link |
 |---|---|---|
-| ✍️ JavaScript With Vinay | Medium | [@javaScriptwithvinay](https://medium.com/@javaScriptwithvinay) |
+| ✍️ JavaScript With Vinay | Medium | [@thisvinaykumar](https://medium.com/@thisvinaykumar) |
 | ⚖️ Magadh Ka Munshi | YouTube | [@MagadhKaMunshi](https://www.youtube.com/@MagadhKaMunshi) |
 | ⚖️ Magadh Ka Munshi | Instagram | [@MagadhKaMunshi](https://www.instagram.com/MagadhKaMunshi) |
 | 🎧 Author Vinay | YouTube | [@authorvinay](https://www.youtube.com/@authorvinay) |
