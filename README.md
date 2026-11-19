@@ -54,11 +54,11 @@ An edge-computing workforce OS and multi-tenant ERP by Opsx Apex Pvt. Ltd. → [
 ### ✍️ Latest from Vinay Kumar on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [The Record Said 18 September. A UTC Machine Showed the 17th.](https://medium.com/@thisvinaykumar/the-record-said-18-september-a-utc-machine-showed-the-17th-d401ab062ea5?source=rss-e184dbcd37f7------2)
 - [One Field, Three Apps, One Reviewer: Node.js vs Python When AI Writes the Code](https://medium.com/@thisvinaykumar/one-field-three-apps-one-reviewer-node-js-vs-python-when-ai-writes-the-code-221d0f608e21?source=rss-e184dbcd37f7------2)
 - [The Cache Answered Too Fast. Our Angular Dropdown Went Empty After the First Form.](https://medium.com/@thisvinaykumar/the-cache-answered-too-fast-our-angular-dropdown-went-empty-after-the-first-form-859b21f02c2f?source=rss-e184dbcd37f7------2)
 - [“Use an Idempotency Key” Covers One of Three Ways a Payment Runs Twice](https://medium.com/@thisvinaykumar/use-an-idempotency-key-covers-one-of-three-ways-a-payment-runs-twice-a299dbb21b47?source=rss-e184dbcd37f7------2)
 - [JavaScript Interview: Share One fetch&lpar;&rpar; Between Two Components, Let Each Cancel Alone](https://javascript.plainenglish.io/one-fetch-two-components-the-header-aborts-the-profile-card-goes-blank-4cff7f3611f0?source=rss-e184dbcd37f7------2)
-- [My AI Coding Agent Said “All Green.” tsc Had Crashed: 3 TypeScript CI Traps](https://blog.devgenius.io/three-checks-said-green-one-built-nothing-one-crashed-one-ran-330-suites-b0006353352b?source=rss-e184dbcd37f7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles on Medium](https://medium.com/@thisvinaykumar)
