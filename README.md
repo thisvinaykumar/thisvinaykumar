@@ -54,11 +54,11 @@ An edge-computing workforce OS and multi-tenant ERP by Opsx Apex Pvt. Ltd. → [
 ### ✍️ Latest from Vinay Kumar on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Every PO Line Had Its Total. Grand Total Said 0.00. Three Angular Signal Bugs.](https://medium.com/@thisvinaykumar/every-po-line-had-its-total-grand-total-said-0-00-three-angular-signal-bugs-cf553a0eb0bb?source=rss-e184dbcd37f7------2)
+- [On a Hard Reload, Our Angular Guard Saw modules: []. Empty Meant Allow Everything.](https://medium.com/@thisvinaykumar/on-a-hard-reload-our-angular-guard-saw-modules-empty-meant-allow-everything-a57bde6d05c6?source=rss-e184dbcd37f7------2)
 - [EMP-001 Exists in Thousands of Tenants. Our Mongoose Filter Missed Five Ways In.](https://medium.com/@thisvinaykumar/emp-001-exists-in-thousands-of-tenants-our-mongoose-filter-missed-five-ways-in-e2adf5dd3f48?source=rss-e184dbcd37f7------2)
 - [The Record Said 18 September. A UTC Machine Showed the 17th.](https://medium.com/@thisvinaykumar/the-record-said-18-september-a-utc-machine-showed-the-17th-d401ab062ea5?source=rss-e184dbcd37f7------2)
 - [One Field, Three Apps, One Reviewer: Node.js vs Python When AI Writes the Code](https://medium.com/@thisvinaykumar/one-field-three-apps-one-reviewer-node-js-vs-python-when-ai-writes-the-code-221d0f608e21?source=rss-e184dbcd37f7------2)
-- [The Cache Answered Too Fast. Our Angular Dropdown Went Empty After the First Form.](https://medium.com/@thisvinaykumar/the-cache-answered-too-fast-our-angular-dropdown-went-empty-after-the-first-form-859b21f02c2f?source=rss-e184dbcd37f7------2)
-- [“Use an Idempotency Key” Covers One of Three Ways a Payment Runs Twice](https://medium.com/@thisvinaykumar/use-an-idempotency-key-covers-one-of-three-ways-a-payment-runs-twice-a299dbb21b47?source=rss-e184dbcd37f7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles on Medium](https://medium.com/@thisvinaykumar)
